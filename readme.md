@@ -1,8 +1,8 @@
 # Projeto Website
 
-## Descrição do projeto
+## Projeto Ficticio Aconectiva.com
 
-Projeto Website - desenvolvido para empresa Aconectiva
+Projeto Website Statico para Disciplina de Empreededorismo - UFERSA 
 
 ## Ferramentas e tecnologias
 - HTML
@@ -11,7 +11,7 @@ Projeto Website - desenvolvido para empresa Aconectiva
 - Bootstrap
 - PHP
 
-Thanks for downloading this template!
+
 
 ## Template Name: Day
 ### Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
