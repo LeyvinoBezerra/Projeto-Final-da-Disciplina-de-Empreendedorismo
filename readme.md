@@ -12,7 +12,7 @@ Projeto Website Statico para Disciplina de Empreededorismo - UFERSA
 - PHP
 
 
-# Name da Enterprise: Aconectica.com
+# Name of Enterprise: Aconectica.com
 ## Author: Leyvino Bezerra
 ### License: Gnum
 
