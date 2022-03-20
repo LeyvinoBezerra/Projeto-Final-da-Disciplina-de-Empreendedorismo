@@ -1,6 +1,6 @@
 # Projeto Final Da Disciplina de Empreededorismo 
 
-### Projeto Ficticio de uma Empresa de serviços de tecnologia - Aconectiva.com
+### Projeto Ficticio de uma Empresa de Serviços de Tecnologia - Aconectiva.com
 
 Projeto Website Statico para Disciplina de Empreededorismo - UFERSA 
 
@@ -12,7 +12,7 @@ Projeto Website Statico para Disciplina de Empreededorismo - UFERSA
 - PHP
 
 
-# Template Name: Aconectica.com
+# Name da Enterprise: Aconectica.com
 ## Author: Leyvino Bezerra
 ### License: Gnum
 
