@@ -1,6 +1,6 @@
-# Projeto Website
+# Projeto Final Da Disciplina de Empreededorismo 
 
-## Projeto Ficticio Aconectiva.com
+### Projeto Ficticio de uma Empresa de serviços de tecnologia - Aconectiva.com
 
 Projeto Website Statico para Disciplina de Empreededorismo - UFERSA 
 
@@ -12,6 +12,9 @@ Projeto Website Statico para Disciplina de Empreededorismo - UFERSA
 - PHP
 
 
+# Template Name: Aconectica.com
+## Author: Leyvino Bezerra
+### License: Gnum
 
 ## Template Name: Day
 ### Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
